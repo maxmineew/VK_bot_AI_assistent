@@ -1,0 +1,16 @@
+# Секреты
+.env
+
+# Рабочие данные бота
+заявки_фокус-группа.csv
+vk_bot_state.json
+vk_bot.log
+*_selftest_*.csv
+*_selftest_*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Прочее
+bothost_upload.zip
